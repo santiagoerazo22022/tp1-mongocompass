@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "68ae932f88dc93837c1f225a"
+  },
+  "nombre": "Ana García",
+  "email": "ana.garcia@gmail.com",
+  "materias": [
+    {
+      "nombre": "Matemáticas",
+      "aula": "101",
+      "horarios": [
+        "Lunes 8:00-10:00",
+        "Miércoles 8:00-10:00"
+      ]
+    },
+    {
+      "nombre": "Física",
+      "aula": "102",
+      "horarios": [
+        "Viernes 10:00-12:00"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ae932f88dc93837c1f225b"
+  },
+  "nombre": "Carlos Pérez",
+  "email": "carlos.perez@gmail.com",
+  "materias": [
+    {
+      "nombre": "Química",
+      "aula": "103",
+      "horarios": [
+        "Martes 9:00-11:00",
+        "Jueves 9:00-11:00"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ae932f88dc93837c1f225c"
+  },
+  "nombre": "Lucía Torres",
+  "email": "lucia.torres@gmail.com",
+  "materias": [
+    {
+      "nombre": "Biología",
+      "aula": "104",
+      "horarios": [
+        "Lunes 11:00-13:00",
+        "Miércoles 11:00-13:00"
+      ]
+    },
+    {
+      "nombre": "Ciencias Naturales",
+      "aula": "105",
+      "horarios": [
+        "Viernes 8:00-10:00"
+      ]
+    }
+  ]
+}]
